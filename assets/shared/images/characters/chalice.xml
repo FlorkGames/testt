@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chalice.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Chalice idle0000" x="0" y="0" width="835" height="1571" frameX="0" frameY="-29" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0001" x="0" y="0" width="835" height="1571" frameX="0" frameY="-29" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0002" x="855" y="0" width="824" height="1582" frameX="-9" frameY="-18" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0003" x="855" y="0" width="824" height="1582" frameX="-9" frameY="-18" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0004" x="1699" y="0" width="812" height="1592" frameX="-19" frameY="-8" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0005" x="1699" y="0" width="812" height="1592" frameX="-19" frameY="-8" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0006" x="2531" y="0" width="834" height="1598" frameX="-28" frameY="-2" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0007" x="2531" y="0" width="834" height="1598" frameX="-28" frameY="-2" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0008" x="3385" y="0" width="844" height="1600" frameX="-32" frameY="0" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0009" x="3385" y="0" width="844" height="1600" frameX="-32" frameY="0" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0010" x="4249" y="0" width="849" height="1568" frameX="-45" frameY="-32" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0011" x="4249" y="0" width="849" height="1568" frameX="-45" frameY="-32" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0012" x="5118" y="0" width="868" height="1532" frameX="-59" frameY="-68" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0013" x="5118" y="0" width="868" height="1532" frameX="-59" frameY="-68" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0014" x="6006" y="0" width="900" height="1499" frameX="-71" frameY="-101" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0015" x="6006" y="0" width="900" height="1499" frameX="-71" frameY="-101" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0016" x="6926" y="0" width="914" height="1483" frameX="-77" frameY="-117" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0017" x="6926" y="0" width="914" height="1483" frameX="-77" frameY="-117" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0018" x="0" y="1620" width="881" height="1518" frameX="-64" frameY="-82" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0019" x="0" y="1620" width="881" height="1518" frameX="-64" frameY="-82" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0020" x="901" y="1620" width="851" height="1555" frameX="-50" frameY="-45" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0021" x="901" y="1620" width="851" height="1555" frameX="-50" frameY="-45" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0022" x="1772" y="1620" width="846" height="1586" frameX="-38" frameY="-14" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0023" x="1772" y="1620" width="846" height="1586" frameX="-38" frameY="-14" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0024" x="3385" y="0" width="844" height="1600" frameX="-32" frameY="0" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0025" x="3385" y="0" width="844" height="1600" frameX="-32" frameY="0" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0026" x="2638" y="1620" width="818" height="1593" frameX="-21" frameY="-7" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0027" x="2638" y="1620" width="818" height="1593" frameX="-21" frameY="-7" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0028" x="3476" y="1620" width="823" height="1583" frameX="-10" frameY="-17" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0029" x="3476" y="1620" width="823" height="1583" frameX="-10" frameY="-17" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0030" x="4319" y="1620" width="834" height="1573" frameX="-1" frameY="-27" frameWidth="991" frameHeight="1600"/>
+	<SubTexture name="Chalice idle0031" x="0" y="0" width="835" height="1571" frameX="0" frameY="-29" frameWidth="991" frameHeight="1600"/>
+</TextureAtlas>
