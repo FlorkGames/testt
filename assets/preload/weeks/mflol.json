@@ -1,0 +1,32 @@
+{
+	"storyName": "YOU IS A MOTHER FUCKER YOU KNOW THAT",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "mflol",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Mother Fucker",
+			"cuphead",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "mother funker"
+}
